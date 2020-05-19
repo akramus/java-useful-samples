@@ -4,11 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>fr.adiveo</groupId>
-  <artifactId>java-useful-samples</artifactId>
+  <groupId>fr.adiveo.samples</groupId>
+  <artifactId>jdk-api</artifactId>
   <version>1.0</version>
 
-  <name>java-useful-samples</name>
   <url>https://github.com/akramus/java-useful-samples</url>
 
   <properties>
