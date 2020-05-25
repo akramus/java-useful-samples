@@ -14,7 +14,7 @@ peristence
 
 csv
 ----
-- coming soon !
+- Using apache-commons-csv : read and produce a csv file
 
 resteasy
 ----
