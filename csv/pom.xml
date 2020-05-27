@@ -18,6 +18,7 @@
     </properties>
     <modules>
         <module>apache-commons-csv</module>
+        <module>opencsv</module>
     </modules>
 
 
