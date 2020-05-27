@@ -6,7 +6,7 @@ jdk-api
 - create tmp file and all lines as string
 - read a file and display all lines
 
-peristence
+persistence
 ----
 - Using jpa hibernate  
 - junit 5 and mockito 
@@ -20,5 +20,25 @@ csv
 resteasy
 ----
 - coming soon !
+
+pdf
+---
+- coming soon
+
+excel
+----
+- coming soon
+
+base64
+----
+- coming soon
+
+security
+---
+- coming soon
+
+web project skeleton deployed to wildfly
+---
+- coming soon
 
 
