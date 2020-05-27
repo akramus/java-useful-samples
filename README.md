@@ -15,6 +15,7 @@ peristence
 csv
 ----
 - Using apache-commons-csv : read and produce a csv file
+- Using opencsv : read and produce csv with annotations
 
 resteasy
 ----
