@@ -32,4 +32,5 @@
 ## web project skeleton deployed to wildfly
 - coming soon
 
-
+## maven plugins : must have in jour maven project
+- coming soon
